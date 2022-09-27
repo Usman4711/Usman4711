@@ -1,6 +1,10 @@
-# Hi there, I'm Usman 👋
- 
+# Hi there, I'm Usman Asghar 👋
+
 ## I'm a Developer,  Researcher!
+## I'm a Cyber Security Learner !
+## I work on securing computer systems against unauthorized access. It involves various practices on protecting computers, networks, mobile devices, and data from intruders. Hackers often launch malicious attacks against digital business assets.
+## I would like to learn more about securing my network and how to mitigate threats
+
 - 🔭 I’m currently working as Full Stack Developer.
 - 🌱 I’m currently learning Competitive-coding, PHP , HTML, CSS.
 - 🥅 2022 Goals:  Full stack developer (PHP). 
